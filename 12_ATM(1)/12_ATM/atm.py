@@ -43,5 +43,3 @@ while True: # 조건이 True면 계속 작동합니다.
         break  # 반복문 종료
     
     
-    else:
-        print('올바른 번호를 입력해주세요.')
